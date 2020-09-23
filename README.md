@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Swift and everything on iOS
+
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/dmitry-aksyonov-85a23b118/) 
 - [Instagram](https://www.instagram.com/daksyonov)
@@ -12,6 +13,10 @@
 - Cocoapods
 - Realm
 - RxSwift (still needs some polishing of knowledge)
+
+### Static Data
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daksyonov&layout=compact)
+
 <!--
 **daksyonov/daksyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
