@@ -10,12 +10,12 @@
 - [Facebook](https://www.facebook.com/daksyonovmsc/)
 - [E-Mail](mailto:dmi.aksyonov@gmail.com) 
 
-## 📦 Currnet ToolBox
+## 📦 Currnet Toolbox
 - Xcode
 - Swift
 - Cocoapods
 - Realm
-- RxSwift (still needs some polishing of knowledge)
+- RxSwift (still needs load of polishing of knowledge)
 
 ## Static Data
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daksyonov&layout=compact)
