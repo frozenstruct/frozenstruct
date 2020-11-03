@@ -5,7 +5,7 @@
 * 🎓 My long-term goal is to obtain Computer Science BA
 * 🔭 I’m currently working on Fitness App which you'll see soon!
 
-## 📫 How to reach me
+## 📫 How To Reach Me
 - [LinkedIn](https://www.linkedin.com/in/dmitry-aksyonov-85a23b118/)   
 - [Instagram](https://www.instagram.com/daksyonov)
 - [Facebook](https://www.facebook.com/daksyonovmsc/)
