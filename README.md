@@ -1,9 +1,7 @@
-# Hi there 🙂
-## Quick Brief
-* 🌱 I’m currently learning Swift and everything on iOS
-* 🎯 My primary focus is to ship complete client-ready app to AppStore
-* 🎓 My long-term goal is to obtain Computer Science BA
-* 🔭 I’m currently working on Fitness App which you'll see soon!
+# Hi there
+* 🌱 currently on Swift & Rust
+* 🎯 discover 2nd PL, while gaining exp in Swift
+* 🔭 currently on SberBank iOS App
 
 ## 📫 How To Reach Me
 - [LinkedIn](https://www.linkedin.com/in/dmitry-aksyonov-85a23b118/)   
@@ -11,17 +9,6 @@
 - [Facebook](https://www.facebook.com/daksyonovmsc/)
 - [Telegram](https://t.me.eyedropping/)
 - [E-Mail](mailto:dmi.aksyonov@gmail.com) 
-
-## 📦 Curnent Toolbox
-- Xcode / Git / CocoaPods / Terminal
-- Swift / ObjC (Elementary)
-- REST / JSON / AlamoFire (pre-intermediate) / Moya (elementary)
-- Realm / CoreData (elementary)
-- RxSwift (elemenary)
-
-## Static Data
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daksyonov&layout=compact)
-
 <!--
 **daksyonov/daksyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
