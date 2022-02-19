@@ -1,6 +1,6 @@
 # Hi there
-* 🌱 currently on Swift & Rust
-* 🎯 discover 2nd PL, while gaining exp in Swift
+* 🌱 currently on Swift
+* 🎯 gaining exp in iOS
 * 🔭 currently on SberBank iOS App
 
 ## 📫 How To Reach Me
