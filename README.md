@@ -1,7 +1,9 @@
 # Hi there
 * 🌱 currently on Swift
 * 🎯 gaining exp in iOS
-* 🔭 currently on SberBank iOS App
+* 🔭 currently on SberBank iOS Apps:
+  * [SberBank Online](https: //apps.apple.com/ru/app/c6ep6aHk-oH/anH-c-ca/OTOM/id492224193)
+  * [SberKids](https://apps.apple.com/ru/app/c6epkids/id1407713839)
 
 <!--
 ## 📫 How To Reach Me
