@@ -3,12 +3,15 @@
 * 🎯 gaining exp in iOS
 * 🔭 currently on SberBank iOS App
 
+<!--
 ## 📫 How To Reach Me
 - [LinkedIn](https://www.linkedin.com/in/dmitry-aksyonov-85a23b118/)   
 - [Instagram](https://www.instagram.com/daksyonov)
 - [Facebook](https://www.facebook.com/daksyonovmsc/)
 - [Telegram](https://t.me.eyedropping/)
 - [E-Mail](mailto:dmi.aksyonov@gmail.com) 
+-->
+
 <!--
 **daksyonov/daksyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
