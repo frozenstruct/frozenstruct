@@ -1,18 +1,24 @@
-# Hi there
-* 🌱 currently on Swift
-* 🎯 gaining exp in iOS
-* 🔭 currently on SberBank iOS Apps:
-  * [SberBank Online](https://apps.apple.com/ru/app/c6ep6aHk-oH/anH-c-ca/OTOM/id492224193)
-  * [SberKids](https://apps.apple.com/ru/app/c6epkids/id1407713839)
+```ruby
+# Hi, Thanks for Reaching Out! 🙂👋🏻
 
-<!--
-## 📫 How To Reach Me
+## Production Experience
+* [Wildberries](https://app.sensortower.com/ios/ru/wildberries-ooo/app/wildberries/597880187/overview) (one of the largest Russian marketplaces)
+* SberBank (largest Russian bank, #1 by assets)
+* solo-developed MVP [e-fitness app](https://apps.apple.com/ru/app/people-club/id1538601319) (published)
+* [Latoken](https://app.sensortower.com/ios/US/latoken/app/latoken/1475744349/overview) (crypto exchange)
+
+## Target Industries
+* FinTech
+* Retail / Marketplace
+* Delivery / FoodTech
+
+## Contact Sheet
 - [LinkedIn](https://www.linkedin.com/in/dmitry-aksyonov-85a23b118/)   
-- [Instagram](https://www.instagram.com/daksyonov)
+- [Instagram](https://www.instagram.com/dimka.aksyonov)
 - [Facebook](https://www.facebook.com/daksyonovmsc/)
 - [Telegram](https://t.me.eyedropping/)
 - [E-Mail](mailto:dmi.aksyonov@gmail.com) 
--->
+```
 
 <!--
 **daksyonov/daksyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
