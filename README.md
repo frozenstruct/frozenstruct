@@ -17,7 +17,12 @@
 - [Instagram](https://www.instagram.com/dimka.aksyonov)
 - [Facebook](https://www.facebook.com/daksyonovmsc/)
 - [Telegram](https://t.me.eyedropping/)
-- [E-Mail](mailto:dmi.aksyonov@gmail.com) 
+- [E-Mail](mailto:dmi.aksyonov@gmail.com)
+
+## About This Profile
+Most of the time you will see repositories of varying degrees of completeness here. 
+Sometimes I'm interested in touching something: this is where I do it. 
+The most finished repositories are in the pinned section - you're welcome to have a look.
 ```
 
 <!--
