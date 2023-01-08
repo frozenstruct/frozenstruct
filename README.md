@@ -2,10 +2,13 @@
 # Hi, Thanks for Reaching Out! 🙂👋🏻
 
 ## Production Experience
-* [Wildberries](https://app.sensortower.com/ios/ru/wildberries-ooo/app/wildberries/597880187/overview) (one of the largest Russian marketplaces)
+* Wildberries (one of the largest Russian marketplaces)
+  * https://app.sensortower.com/ios/ru/wildberries-ooo/app/wildberries/597880187/overview
 * SberBank (largest Russian bank, #1 by assets)
-* solo-developed MVP [e-fitness app](https://apps.apple.com/ru/app/people-club/id1538601319) (published)
-* [Latoken](https://app.sensortower.com/ios/US/latoken/app/latoken/1475744349/overview) (crypto exchange)
+* solo-developed MVP e-fitness app (published)
+  * https://apps.apple.com/ru/app/people-club/id1538601319)
+* Latoken (crypto exchange)
+  * https://app.sensortower.com/ios/US/latoken/app/latoken/1475744349/overview
 
 ## Target Industries
 * FinTech
